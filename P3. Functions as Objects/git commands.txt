@@ -29,6 +29,10 @@ git commit -m "Resolve conflict"
 git push 
 
 
+# git branch 
+git branch add-link-jav 
+git branch 
+git checkout add-link-jav : chuyen branch sang add-link-jav 
 
 
 
