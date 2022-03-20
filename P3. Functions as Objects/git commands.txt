@@ -17,7 +17,16 @@ git pull
 
 
 # resolve conflict
-
+git add .
+git commit -m ....
+git push 
+=> xuat hien error 
+=> resolve: 
+git pull 
+chon thay doi nao 
+git add . 
+git commit -m "Resolve conflict"
+git push 
 
 
 
