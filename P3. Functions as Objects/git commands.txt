@@ -3,8 +3,8 @@ git status
 git add . 
 git status 
 git commit -m 'First commit'
-git log 
 git remote add origion https://.......
+git push origin master 
 
 # commit moi 
 git add . 
@@ -33,6 +33,9 @@ git push
 git branch add-link-jav 
 git branch 
 git checkout add-link-jav : chuyen branch sang add-link-jav 
+
+# tao file gitignore: 
+echo "" >.gitignore
 
 
 
