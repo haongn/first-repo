@@ -17,6 +17,13 @@ substitute is now a generator expression.
 To determine whether an object is callable, use the callable() built-in function.
 
 
+module clip 
+module functools (reduce, )
+module operator (mul, add, itemgetter, attrgetter)
+module collections 
+
+
+
 
 
 
